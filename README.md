@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu repositório de ciência de dados! Aqui você encontrará an
 # Conteúdo do Repositório
 
 ## 1. Análise de Dados - Diversidade no Setor de TI (2022) 📝
-Arquivo :analise_dados.ipynb
+Arquivo : analise_dados.ipynb
 
 Este caderno contém uma análise detalhada sobre a diversidade do público na área de TI com base em dados de 2022. Utilizando as bibliotecas Pandas e Python , uma análise aborda questões de gênero, raça e representatividade no setor. Algumas das perguntas respondidas incluem:
 
