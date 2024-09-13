@@ -13,7 +13,7 @@ Como as diferentes etnias estão representadas?
 Existe alguma mudança nas tendências de contratação?
 
 ## 2. Regressão Linear - Análise de Salários e Diversidade 💼
-Arquivo :regressao_linear.ipynb
+Arquivo : regressao_linear.ipynb
 
 Neste caderno, foi realizada uma análise mais complexa, utilizando técnicas de Regressão Linear para cruzar dados como:
 
